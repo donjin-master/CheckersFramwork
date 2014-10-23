@@ -1,0 +1,5 @@
+c:\Users\james\documents\visual studio 2013\Projects\Checkers\Checkers.Lib\bin\Debug\Checkers.Lib.dll
+c:\Users\james\documents\visual studio 2013\Projects\Checkers\Checkers.Lib\bin\Debug\Checkers.Lib.pdb
+c:\Users\james\documents\visual studio 2013\Projects\Checkers\Checkers.Lib\obj\Debug\Checkers.Lib.csprojResolveAssemblyReference.cache
+c:\Users\james\documents\visual studio 2013\Projects\Checkers\Checkers.Lib\obj\Debug\Checkers.Lib.dll
+c:\Users\james\documents\visual studio 2013\Projects\Checkers\Checkers.Lib\obj\Debug\Checkers.Lib.pdb

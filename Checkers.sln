@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30110.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Checkers.Lib", "Checkers.Lib\Checkers.Lib.csproj", "{AB4BA11D-39DD-45AD-AED6-BC06B739D111}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Checkers.DTO", "Checkers.DTO\Checkers.DTO.csproj", "{6ED070A7-4DB1-4445-A3C1-A6877175FF16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Checkers.DB", "Checkers.DB\Checkers.DB.csproj", "{1B6A3307-965C-45E4-B618-F2DEB4340078}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Checkers.WebUI", "Checkers.WebUI\Checkers.WebUI.csproj", "{701946A5-A829-40D3-8CFB-FC3E87083954}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Checkers.Enums", "Checkers.Enums\Checkers.Enums.csproj", "{03E406DB-F9A0-409F-B5D4-A9E3B65B55D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Checkers.Service", "Checkers.Service\Checkers.Service.csproj", "{E3BAD011-E1C4-4688-A48E-8291D0BC4DD2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB4BA11D-39DD-45AD-AED6-BC06B739D111}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB4BA11D-39DD-45AD-AED6-BC06B739D111}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB4BA11D-39DD-45AD-AED6-BC06B739D111}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB4BA11D-39DD-45AD-AED6-BC06B739D111}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6ED070A7-4DB1-4445-A3C1-A6877175FF16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ED070A7-4DB1-4445-A3C1-A6877175FF16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ED070A7-4DB1-4445-A3C1-A6877175FF16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ED070A7-4DB1-4445-A3C1-A6877175FF16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B6A3307-965C-45E4-B618-F2DEB4340078}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B6A3307-965C-45E4-B618-F2DEB4340078}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B6A3307-965C-45E4-B618-F2DEB4340078}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B6A3307-965C-45E4-B618-F2DEB4340078}.Release|Any CPU.Build.0 = Release|Any CPU
+		{701946A5-A829-40D3-8CFB-FC3E87083954}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{701946A5-A829-40D3-8CFB-FC3E87083954}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{701946A5-A829-40D3-8CFB-FC3E87083954}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{701946A5-A829-40D3-8CFB-FC3E87083954}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03E406DB-F9A0-409F-B5D4-A9E3B65B55D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03E406DB-F9A0-409F-B5D4-A9E3B65B55D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03E406DB-F9A0-409F-B5D4-A9E3B65B55D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03E406DB-F9A0-409F-B5D4-A9E3B65B55D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3BAD011-E1C4-4688-A48E-8291D0BC4DD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3BAD011-E1C4-4688-A48E-8291D0BC4DD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3BAD011-E1C4-4688-A48E-8291D0BC4DD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3BAD011-E1C4-4688-A48E-8291D0BC4DD2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

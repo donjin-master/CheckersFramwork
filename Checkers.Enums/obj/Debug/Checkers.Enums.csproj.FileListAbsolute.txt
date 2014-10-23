@@ -1,0 +1,4 @@
+c:\Users\james\documents\visual studio 2013\Projects\Checkers\Checkers.Enums\bin\Debug\Checkers.Enums.dll
+c:\Users\james\documents\visual studio 2013\Projects\Checkers\Checkers.Enums\bin\Debug\Checkers.Enums.pdb
+c:\Users\james\documents\visual studio 2013\Projects\Checkers\Checkers.Enums\obj\Debug\Checkers.Enums.dll
+c:\Users\james\documents\visual studio 2013\Projects\Checkers\Checkers.Enums\obj\Debug\Checkers.Enums.pdb

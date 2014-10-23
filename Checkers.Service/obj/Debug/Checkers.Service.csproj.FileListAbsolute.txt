@@ -1,0 +1,4 @@
+c:\Users\james\documents\visual studio 2013\Projects\Checkers\Checkers.Service\bin\Debug\Checkers.Service.dll
+c:\Users\james\documents\visual studio 2013\Projects\Checkers\Checkers.Service\bin\Debug\Checkers.Service.pdb
+c:\Users\james\documents\visual studio 2013\Projects\Checkers\Checkers.Service\obj\Debug\Checkers.Service.dll
+c:\Users\james\documents\visual studio 2013\Projects\Checkers\Checkers.Service\obj\Debug\Checkers.Service.pdb

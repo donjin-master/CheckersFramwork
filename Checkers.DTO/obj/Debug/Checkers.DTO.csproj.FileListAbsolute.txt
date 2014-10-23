@@ -1,0 +1,5 @@
+c:\Users\james\documents\visual studio 2013\Projects\Checkers\Checkers.DTO\bin\Debug\Checkers.DTO.dll
+c:\Users\james\documents\visual studio 2013\Projects\Checkers\Checkers.DTO\bin\Debug\Checkers.DTO.pdb
+c:\Users\james\documents\visual studio 2013\Projects\Checkers\Checkers.DTO\obj\Debug\Checkers.DTO.csprojResolveAssemblyReference.cache
+c:\Users\james\documents\visual studio 2013\Projects\Checkers\Checkers.DTO\obj\Debug\Checkers.DTO.dll
+c:\Users\james\documents\visual studio 2013\Projects\Checkers\Checkers.DTO\obj\Debug\Checkers.DTO.pdb
